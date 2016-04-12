@@ -1,7 +1,6 @@
-# This is very cool
-## May be not that Cool
-### May not really be that Cool
-#### OK, This is getting ridiculous
+# Demo Git Repository
 
+* This is the first file in this repo
+* This is Second Line in the List
 
-This is first line in the repo
+## This is a Smaller Heading
